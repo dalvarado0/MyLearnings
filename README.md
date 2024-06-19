@@ -8,10 +8,11 @@ This repository is built step by step in the tutorial.
 
 Git command
 ```
-git status --short M . 
+git status --short M .
 ```
 
 ?? - Untracked files
 A - Files added to stage
 M - Modified files
 D - Deleted files
+
