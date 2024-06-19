@@ -6,7 +6,10 @@ This repository is built step by step in the tutorial.
 
 # Short status flags are:
 
+Git command
+```
 git status --short M . 
+```
 
 ?? - Untracked files
 A - Files added to stage
